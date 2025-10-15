@@ -49,8 +49,8 @@ El proyecto fue desarrollado en **Python**, utilizando las siguientes librerías
 
 ## 📂 Estructura del Repositorio
 
-Proyecto_ML_No_Supervisado/
-│
+Proyecto_ML_No_Supervisado/  
+│  
 ├── Proyecto_ML_No_Supervisado.ipynb # Notebook principal del análisis  
 ├── data/ # (opcional) datasets utilizados  
 ├── figures/ # visualizaciones y resultados  
