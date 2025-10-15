@@ -73,6 +73,7 @@ Proyecto_ML_No_Supervisado/
 
 Proyecto desarrollado por estudiantes del **Magíster en Data Science**:
 
-- **Felipe Goicolea Guerra**  
+
 - **Matías Labraña**  
+- **Felipe Goicolea Guerra**  
 - **Marcelo Yañez**
