@@ -1,0 +1,11 @@
+# Ignorar todas las carpetas (y subcarpetas)
+*/
+***/
+
+# No ignorar la carpeta utils y su contenido
+!utils/
+!utils/**
+
+# No ignorar los archivos del nivel actual (como .ipynb, .txt, .gitignore)
+!*.*
+!.*

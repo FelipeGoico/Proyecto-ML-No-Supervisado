@@ -1,0 +1,11 @@
+Milk Quality Dataset → https://www.kaggle.com/datasets/cpluzshrijayan/milkquality
+Dairy Goods Sales Dataset → https://www.kaggle.com/datasets/suraj520/dairy-goods-sales-dataset  
+Animal Sounds Dataset → https://github.com/YashNita/Animal-Sound-Dataset
+News Category Dataset → https://www.kaggle.com/datasets/rmisra/news-category-dataset
+Global Coffee Health Dataset → https://www.kaggle.com/datasets/uom190346a/global-coffee-health-dataset
+Customer Personality Analysis → https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
+Credit Card Customer → https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
+Animal Sounds → https://github.com/YashNita/Animal-Sound-Dataset
+Lifestyle and Sleep Patterns → https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
+Wholesale Customers Data Set → https://www.kaggle.com/datasets/binovi/wholesale-customers-data-set
+
